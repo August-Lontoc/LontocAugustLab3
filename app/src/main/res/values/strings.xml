@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Styles and Material Design</string>
+
+    <string name="nam">San Agustin Church</string>
+    <string name="loc">Location: Gen Luna and Real Sts Intramuros, Manila, Luzon 1002 Philippines</string>
+    <string name="dis">Distance: 3.8 km from University of Santo Tomas</string>
+    <string name="bac">BACK</string>
+    <string name="nex">NEXT</string>
+
+</resources>
